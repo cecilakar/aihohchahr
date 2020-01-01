@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimoovies.7bf.top/sitemap.xml
